@@ -39,7 +39,7 @@ $yellow   4:Mereka hanya ingin, mempertahankan kekuasaan dan kekayaan $normal
 $yellow   5:nomor WhatsApp saya:+6283850540570 $normal
 $yellow   6:akun Instagram saya:Rizky.0_o $normal
 $blue   ====================================================== $normal";
-echo "\n $yellow $white 1: dibuat pada tahun 2025 tanggal: Sab 12 Apr $normal";
+echo "\n $yellow $white 1:dibuat pada tahun 2025 tanggal: Sab 12 Apr $normal";
 echo "\n $yellow $white 2:pembuat script Rizky😁 $normal";
 echo "\n $yellow $white 3:script ini jangan disalahgunakan $normal";
 echo $yellow."\n $white  masukkan link website target$red(".$white."ex:https://):$normal ";
