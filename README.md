@@ -19,15 +19,13 @@ https://tiktok.com/@.rizky292
 https://t.me/Rizky.0_o
 ```
 
-# Cara install bahasn
+# script termux😊
 ```
 git clone https://github.com/Rizky598/Pindai-website.v2.git
 ```
-masukkan ini yang pertama😊
 ```
 cd Pindai-website.v2
 ```
-ini yang terakhir
 ```
 php owscan.php
 ```
