@@ -23,17 +23,18 @@ $yellow = "\033[1;33m";
 $white = "\033[1;37m";
 $normal = "\033[0m";
 echo "\n$yellow
-$yellow _____     __      __    ______                                    $normal
-$yellow/\  __`\  /\ \  __/\ \  /\  __ \                                   $normal
-$yellow\ \ \/\ \ \ \ \/\ \ \ \ \ \ \,\_\      ____     ____       ____    $normal
-$yellow \ \ \ \ \ \ \ \ \ \ \ \ \/_____ \    /'___\   /'__`\     / _ `\   $normal
-$yellow  \ \ \_\ \ \ \ \_\ \_\ \  /\`\_\ \  /\ \__/  /\ \L\.\_  /\ \/\ \  $normal
-$yellow   \ \_____\ \ \____x___/  \ \_____\ \ \____\ \ \__/.\_\ \ \_\ \_\ $normal
-$yellow    \/_____/  \,/__//__/    \/_____/  \/____/  \/__/\/_/  \/_/\/_/ $normal";
-echo "\n     $yellow:::$white OWScan v1.0 - 19 March 2018 (05:50)      $normal";
-echo "\n     $yellow:::$white Author: DedSecTL/DTL | Codename: Alone.  $normal";
-echo "\n     $yellow:::$white Team: BlackHole Security | O~WEB Scanner $normal";
-echo $yellow."\n     [#]$white Enter Website to Scan$red(".$white."ex: example.com$red):$normal ";
+$yellow ====================================================== $normal
+$yellow 1:Pemerintah yang kejam, dengan kekuasaan yang besar $normal
+$yellow 2:Menggunakan kekuasaan, untuk menindas dan menganiaya $normal
+$yellow 3:Mereka tidak peduli, dengan penderitaan rakyat $normal
+$yellow 4:Mereka hanya ingin, mempertahankan kekuasaan dan kekayaan $normal
+$yellow 5:nomor WhatsApp saya:+6283850540570 $normal
+$yellow 6:akun Instagram saya:Rizky.0_o $normal
+$yellow ====================================================== $normal";
+echo "\n     $yellow:::$white 1:dibuat pada tanggal:2025 Sab.12.Apr $normal";
+echo "\n     $yellow:::$white 1:pembuat script Rizky😁 $normal";
+echo "\n     $yellow:::$white script ini jangan disalahgunakan $normal";
+echo $yellow."\n     [#]$white masukkan link website target$red(".$white."ex: https://):$normal ";
 $webURL = trim(fgets(STDIN));
 if ( $webURL != NULL ) {
 	// Whois Lookup
