@@ -1,6 +1,5 @@
 # Pindai-website.v2
 Alat pemindai website pencari kerentanan🎯😊
-#tools termux penguji kerentanan website
 Welcome
 --------|
 ![GIF](https://media1.tenor.com/m/PChmGbfH4r8AAAAd/tokyo-ghoul-ken-kaneki.gif)
