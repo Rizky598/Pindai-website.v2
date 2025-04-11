@@ -22,19 +22,23 @@ $red = "\033[1;31m";
 $yellow = "\033[1;33m";
 $white = "\033[1;37m";
 $normal = "\033[0m";
-echo "\n$yellow
-$yellow ====================================================== $normal
+$                                                              $normal
+$       [][][][][][][][][][][][][][][][][][][][][][][][][][][] $normal                                                      $normal
+$       [][][][][][][][][][][][][][][][][][][][][][][][][][][] $normal                                                     $normal
+$       [][][][][][][][][][][][][][][][][][][][][][][][][][][] $normal                                                    $normal
+$       [][][][][][][][][][][][][][][][][][][][][][][][][][][] $normal                                                     $normal
+$blue   ====================================================== $normal
 $yellow 1:Pemerintah yang kejam, dengan kekuasaan yang besar $normal
 $yellow 2:Menggunakan kekuasaan, untuk menindas dan menganiaya $normal
 $yellow 3:Mereka tidak peduli, dengan penderitaan rakyat $normal
 $yellow 4:Mereka hanya ingin, mempertahankan kekuasaan dan kekayaan $normal
 $yellow 5:nomor WhatsApp saya:+6283850540570 $normal
 $yellow 6:akun Instagram saya:Rizky.0_o $normal
-$yellow ====================================================== $normal";
-echo "\n     $yellow:::$white 1:dibuat pada tanggal:2025 Sab.12.Apr $normal";
-echo "\n     $yellow:::$white 1:pembuat script Rizky😁 $normal";
-echo "\n     $yellow:::$white script ini jangan disalahgunakan $normal";
-echo $yellow."\n     [#]$white masukkan link website target$red(".$white."ex: https://):$normal ";
+$blue   ====================================================== $normal";
+echo "\n $yellow $white 1: dibuat pada tahun 2025 tanggal: Sab 12 Apr $normal";
+echo "\n $yellow $white 2:pembuat script Rizky😁 $normal";
+echo "\n $yellow $white 3:script ini jangan disalahgunakan $normal";
+echo $yellow."\n $white masukkan link website target$red(".$white."ex:https://):$normal ";
 $webURL = trim(fgets(STDIN));
 if ( $webURL != NULL ) {
 	// Whois Lookup
