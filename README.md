@@ -19,7 +19,7 @@ masukkan aja script yang di bawah untuk script termux😊
 ```
 pkg update && pkg upgrade
 pkg install git
-git clone https://github.com/Rizky598/Website.git
-cd Website
-php rhawk.php
+git clone https://github.com/Rizky598/Pindai-website.v2
+cd Pindai-website.v2
+php owscan.php
 ```
